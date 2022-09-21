@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    /* font-size: 10px; */
+}
+.container{
+/* font-size: 30px; */
+}
+.box{
+    /* font-size: 4rem; */
+    background-color: red;
+
+}
+.box2{
+    background-color: aquamarine;
+    width: 50vw;
+    height: 50vh;
+}

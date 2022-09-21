@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 344px;
+    height: 45vh;
+    background-color: red;
+    /* min-height: 40vh; */
+    max-height: 80vh;
+}
